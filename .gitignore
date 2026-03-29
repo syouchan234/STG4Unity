@@ -1,18 +1,7 @@
-/[L]ibrary/
-/[T]emp/
-/[O]bj/
-/[B]uild/
-/[L]ogs/
-/[U]serSettings/
-/[M]emoryCaptures/
-
-# Visual Studio / Rider 関連
-.vs/
-*.csproj
-*.sln
-*.userprefs
-*.idea/
-
-# OS固有のゴミファイル
-.DS_Store
-Thumbs.db
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
